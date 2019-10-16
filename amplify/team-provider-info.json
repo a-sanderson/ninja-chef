@@ -1,0 +1,14 @@
+{
+    "macos": {
+        "awscloudformation": {
+            "AuthRoleName": "ninja-chef-macos-20191015173613-authRole",
+            "UnauthRoleArn": "arn:aws:iam::649429007962:role/ninja-chef-macos-20191015173613-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::649429007962:role/ninja-chef-macos-20191015173613-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "ninja-chef-macos-20191015173613-deployment",
+            "UnauthRoleName": "ninja-chef-macos-20191015173613-unauthRole",
+            "StackName": "ninja-chef-macos-20191015173613",
+            "StackId": "arn:aws:cloudformation:us-east-2:649429007962:stack/ninja-chef-macos-20191015173613/93497290-efa4-11e9-84a8-023ebc410218"
+        }
+    }
+}

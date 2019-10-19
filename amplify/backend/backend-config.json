@@ -16,5 +16,12 @@
 				}
 			}
 		}
+	},
+	"auth": {
+		"ninjachef8f24ae58": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
 	}
 }

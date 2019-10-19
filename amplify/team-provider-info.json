@@ -9,6 +9,11 @@
             "UnauthRoleName": "ninja-chef-macos-20191015173613-unauthRole",
             "StackName": "ninja-chef-macos-20191015173613",
             "StackId": "arn:aws:cloudformation:us-east-2:649429007962:stack/ninja-chef-macos-20191015173613/93497290-efa4-11e9-84a8-023ebc410218"
+        },
+        "categories": {
+            "auth": {
+                "ninjachef8f24ae58": {}
+            }
         }
     }
 }
